@@ -1,4 +1,4 @@
-![Preview](https://raw.githubusercontent.com/iamimranshaikh/portfolio-website/main/portfolio_website_preview.png)
+![Preview](https://raw.githubusercontent.com/iamimranshaikh/portfolio-website/main/portfolio_website_preview.PNG)
 
 # 🌐 Portfolio Website
 

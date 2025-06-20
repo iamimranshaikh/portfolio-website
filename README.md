@@ -1,10 +1,6 @@
 <!-- Portfolio Website README -->
-https://raw.githubusercontent.com/iamimranshaikh/portfolio-website/refs/heads/main/portfolio_website_preview.png.PNG
-
 ![Preview](https://raw.githubusercontent.com/iamimranshaikh/portfolio-website/main/portfolio_website_preview.png)
-
-
-![Preview](./portfolio_website_preview.png)
+![Preview](portfolio_website_preview.png)
 
 # 🌐 Portfolio Website
 
